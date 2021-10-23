@@ -25,7 +25,7 @@
     &lt;h1&gt;Hi, I'm Manu Parashar!&lt;/h1&gt;
 
 &lt;h2&gt;About me&lt;/h2&gt;
-&lt;img src="profile.jpg" class = "profile-pic" alt="profile picture"&gt;
+&lt;img src="https://avatars.githubusercontent.com/u/44885688?v=4" class = "profile-pic" alt="profile picture"&gt;
 &lt;p&gt;Determined and diligent university student working towards a degree in Computing
 Science. I am seeking an opportunity to use my hard work and technical …&lt;/p&gt;&lt;/section&gt;&lt;/div&gt;&lt;/body&gt;</summary><content type="html">&lt;!DOCTYPE html&gt;
 &lt;p&gt;&lt;html lang="en"&gt;
@@ -53,7 +53,7 @@ Science. I am seeking an opportunity to use my hard work and technical …&lt;/p
     &lt;h1&gt;Hi, I'm Manu Parashar!&lt;/h1&gt;
 
 &lt;h2&gt;About me&lt;/h2&gt;
-&lt;img src="profile.jpg" class = "profile-pic" alt="profile picture"&gt;
+&lt;img src="https://avatars.githubusercontent.com/u/44885688?v=4" class = "profile-pic" alt="profile picture"&gt;
 &lt;p&gt;Determined and diligent university student working towards a degree in Computing
 Science. I am seeking an opportunity to use my hard work and technical skills to help
 create and innovate solutions for modern problems in the 21st century.
@@ -137,4 +137,4 @@ create and innovate solutions for modern problems in the 21st century.
 
 
 &lt;/body&gt;
-&lt;p&gt;&lt;/html&gt;&lt;/p&gt;</content><category term="Blog"></category></entry><entry><title>About me (old)</title><link href="https://mparasha.github.io/about-me-old.html" rel="alternate"></link><published>2020-07-19T08:00:00-06:00</published><updated>2020-07-19T08:00:00-06:00</updated><author><name>Danger Doggo</name></author><id>tag:mparasha.github.io,2020-07-19:/about-me-old.html</id><content type="html">&lt;p&gt;I am learning Pelican 😁&lt;/p&gt;</content><category term="Blog"></category></entry><entry><title>My First Article</title><link href="https://mparasha.github.io/my-first-article.html" rel="alternate"></link><published>2019-01-07T08:00:00-07:00</published><updated>2019-01-07T08:00:00-07:00</updated><author><name>Danger Doggo</name></author><id>tag:mparasha.github.io,2019-01-07:/my-first-article.html</id><content type="html">&lt;p&gt;I like free static web hosting.&lt;/p&gt;</content><category term="Blog"></category></entry></feed>
+&lt;p&gt;&lt;/html&gt;&lt;/p&gt;</content><category term="Blog"></category></entry></feed>
