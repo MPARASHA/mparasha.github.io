@@ -9,7 +9,9 @@ body {
 
 
 h1,h2,h3 {
-  font-family: "Times New Roman";
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%
 }
 
 p {
