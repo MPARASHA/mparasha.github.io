@@ -16,9 +16,15 @@ p {
 text-align: left;
 }
 
+.container {
+  display: flex; /** set the container as flexbox **/
+  align-items: center; /** align all items vertically **/
+  padding-left: 0;
+  margin-left: 0;
+}
+
 
 img {
-  display: flex;
   padding: 20pt 20pt;
   border-radius: 50%;
 }
