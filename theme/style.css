@@ -29,6 +29,7 @@ text-align: left;
 img {
   padding: 20pt 20pt;
   border-radius: 50%;
+  max-width: 250pt;
 }
 
 section {
